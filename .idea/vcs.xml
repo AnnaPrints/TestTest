@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AppStarter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Arcadia-Spigot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LeafPic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PocketHub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/haml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/haml/css" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/haml/css/css" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/haml/css/css/scala" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/junit-quickcheck" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testrepository" vcs="Git" />
+  </component>
+</project>
