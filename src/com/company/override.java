@@ -7,7 +7,7 @@ public class override {
     }
 }
 // Inherited class
-class Wow extends override{
+class Wow extends override {
     // This method overrides shoow() of Parent1
     @Override
     void shoow()
@@ -15,3 +15,17 @@ class Wow extends override{
         System.out.println("Child's shoow()");
     }
 }
+
+//1
+
+//2
+//3
+
+class Macros1 {
+    String s5 = "5";
+    int i6 = 6;
+    //7
+}
+
+//8
+

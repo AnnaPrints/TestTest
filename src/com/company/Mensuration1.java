@@ -1,6 +1,6 @@
 package com.company;
 
-public class Mensuration
+public class Mensuration1
 {
     public double x, y, r;
     // Create getter method for each variable.
@@ -33,7 +33,7 @@ public class Mensuration
     public double areaRec()
     {
         double area = x*y;
-        return area;
+        return area;     
     }
     public double perRec()
     {
@@ -42,7 +42,7 @@ public class Mensuration
     }
     public double areaCircle()
     {
-        double area = 3.14*r*r;
+        double area =  3.14*r*r;
         return area;
     }
     public double circumCircle()
@@ -51,11 +51,11 @@ public class Mensuration
         return circumference;
     }
 }
-public class MyTest
+public class MyTest1
 {
     public static void main(String[] args)
     {
-        Mensuration mens; // Creating reference.men's = new Mensuration();
+        Mensuration1 mens; // Creating reference.men's = new Mensuration();
         // Creating object.
 
 // Set the values of the variables.
