@@ -5,4 +5,12 @@ class MyThread implements Runnable {
     public void run() {}  // jump to `Runnable.java` via gutter
     //
 
+    static class Parent {
+        //test
+
+
+
+
+
+    }
 }

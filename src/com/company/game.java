@@ -14,7 +14,7 @@ public class GameView extends SurfaceView implements Runnable, SurfaceHolder.Cal
     private int currentArrowFrame = 0;      // animation frame de arrow actual
     private long frameTicker;               // tiempo desde que el ultimo frame fue dibujado
     
-
+   
     //----------------------------------------------------------------------------------------------
     //Constructors
     public GameView(Context context) {
@@ -30,6 +30,7 @@ public class GameView extends SurfaceView implements Runnable, SurfaceHolder.Cal
     public GameView(Context context, AttributeSet attrs, int defStyle) {
         super(context, attrs, defStyle);
         this.constructorHelper(context);
+
 
     }
 
@@ -450,6 +451,9 @@ public class GameManager {
         }
         if(this.scareCountDown!=null){
             this.scareCountDown.cancel();
+
         }
     }
 }
+
+//tes

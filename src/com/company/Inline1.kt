@@ -1,6 +1,6 @@
 package com.company
 
-import kotlinx.browser.window
+import kotlinx.browser.window  
 
 
 fun main() {
@@ -11,6 +11,6 @@ fun main() {
                     name = "Kotlin/JS"
                 }
             }
-        }
-    }
+        }//
+    }//
 }

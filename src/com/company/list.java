@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.*;
-class ListExample1{
+class ListName {
     public static void main(String args[]){
         //Creating a List
         List<String> list=new ArrayList<String>();
@@ -9,6 +9,7 @@ class ListExample1{
         list.add("Mango");
         list.add("Apple");
         list.add("Banana");
+
         list.add("Grapes");
         list
 
